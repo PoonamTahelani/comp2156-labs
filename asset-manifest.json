@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/comp2156-labs/static/css/main.f48a98bf.css",
-    "main.js": "/comp2156-labs/static/js/main.7ca96a6a.js",
+    "main.js": "/comp2156-labs/static/js/main.a59cb7a7.js",
     "index.html": "/comp2156-labs/index.html",
     "main.f48a98bf.css.map": "/comp2156-labs/static/css/main.f48a98bf.css.map",
-    "main.7ca96a6a.js.map": "/comp2156-labs/static/js/main.7ca96a6a.js.map"
+    "main.a59cb7a7.js.map": "/comp2156-labs/static/js/main.a59cb7a7.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
-    "static/js/main.7ca96a6a.js"
+    "static/js/main.a59cb7a7.js"
   ]
 }
