@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/PoonamTahelani/comp2156-labs/tree/dep-inclusions/static/css/main.f48a98bf.css",
-    "main.js": "/PoonamTahelani/comp2156-labs/tree/dep-inclusions/static/js/main.7ca96a6a.js",
-    "index.html": "/PoonamTahelani/comp2156-labs/tree/dep-inclusions/index.html",
-    "main.f48a98bf.css.map": "/PoonamTahelani/comp2156-labs/tree/dep-inclusions/static/css/main.f48a98bf.css.map",
-    "main.7ca96a6a.js.map": "/PoonamTahelani/comp2156-labs/tree/dep-inclusions/static/js/main.7ca96a6a.js.map"
+    "main.css": "/comp2156-labs/static/css/main.f48a98bf.css",
+    "main.js": "/comp2156-labs/static/js/main.7ca96a6a.js",
+    "index.html": "/comp2156-labs/index.html",
+    "main.f48a98bf.css.map": "/comp2156-labs/static/css/main.f48a98bf.css.map",
+    "main.7ca96a6a.js.map": "/comp2156-labs/static/js/main.7ca96a6a.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
