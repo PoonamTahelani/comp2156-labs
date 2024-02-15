@@ -3,23 +3,6 @@
   "version": "1.0.0",
   "description": "COMP2156 lab exercise",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\"",
-    "ci": "echo \"Error: No CI configured\""
-  },
-  "keywords": [],
-  "author": "Poonam Tahelani",
-  "license": "ISC"
-},
-"dependencies": {
-  "gh-pages": "^2.0.1",
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-scripts": "5.0.1",
-  "web-vitals": "^2.1.4",
-  "travis": "^0.1.1",
-  "yarn": "^1.13.0"
-},
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
@@ -27,5 +10,9 @@
   "deploy": "gh-pages -d build",
   "test": "echo \"Warning: No tests created yet.\"",
   "eject": "react-scripts eject"
+},
+"repository": {
+  "type": "git",
+  "url": "https://github.com/PoonamTahelani/comp2156-labs/branches"
 }
 
